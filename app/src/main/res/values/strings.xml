@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">add remove</string>
-    <string name="EnterHint">กรแกรายละเอียด</string>
+
+    <string-array name="types">
+        <item>Mobile</item>
+        <item>Office</item>
+        <item>Home</item>
+    </string-array>
 </resources>
